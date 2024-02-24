@@ -1,0 +1,19 @@
+//Git initialize
+git init
+
+//Clone a repo
+git clone https_url
+
+//git add all files
+git add .
+
+//git add specific filenames
+git add filename 
+
+//git commit and move to staging area
+git commit -m "commit message"
+
+//move local changes to remote repo
+git push origin branchname
+
+
