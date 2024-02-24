@@ -22,6 +22,15 @@ git pull origin branchname
 //merge code into master
 git merge -m "message" destinationbranchname
 
+//check the commit logs 
+git log
+
+//stash the changes 
+git stash
+
+// Again bring back the latest changes
+git stash pop
+
 //git diff command
 git diff filename
 //Investigate this above command as this is not working as expected
