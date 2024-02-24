@@ -19,6 +19,9 @@ git push origin branchname
 //pull from remote repo
 git pull origin branchname
 
+//merge code into master
+git merge -m "message" destinationbranchname
+
 //git diff command
 git diff filename
 //Investigate this above command as this is not working as expected
