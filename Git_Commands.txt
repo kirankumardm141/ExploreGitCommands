@@ -16,4 +16,7 @@ git commit -m "commit message"
 //move local changes to remote repo
 git push origin branchname
 
+//pull from remote repo
+git pull origin branchname
+
 
